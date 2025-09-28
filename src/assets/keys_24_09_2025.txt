@@ -1,0 +1,177 @@
+VM296:22 key: rqVii4 value: 7D811D13328C
+VM296:22 key: vQ8mM2 value: 0
+VM296:22 key: q5KE3l value: 1.20.2
+VM296:22 key: rGv6Xa value: invisible
+VM296:22 key: 0dOAAI value: 0.40000009536743164
+VM296:22 key: GsfWGF value: f4a8a9357a334baebf7865163bca6b3a51207b4f464bee29e150adfb9d49603b
+VM296:22 key: ebUBX2 value: bgra8unorm
+VM296:22 key: hz2ppw value: packed_4x8_integer_dot_product,unrestricted_pointer_parameters,pointer_composite_access,readonly_and_readwrite_storage_textures
+VM296:22 key: O8p729 value: Google Inc. (AMD)
+VM296:22 key: MdxdMP value: ANGLE (AMD, AMD Radeon(TM) Vega 3 Graphics (0x000015D8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+VM296:22 key: a9O9ya value: ,1,2,3,16,17,
+VM296:22 key: gg77SJ value: false
+VM296:22 key: 01yjc1 value: 
+VM296:22 key: 1mL1Lr value: false
+VM296:22 key: gIWwbi value: probably
+VM296:22 key: CHs5oV value: true
+VM296:22 key: SHKrUy value: probably
+VM296:22 key: 88xsPp value: true
+VM296:22 key: pNv0RQ value: maybe
+VM296:22 key: KEmhcR value: false
+VM296:22 key: zctVsP value: 
+VM296:22 key: PRtzbI value: false
+VM296:22 key: cPtncO value: 
+VM296:22 key: kDVCU6 value: false
+VM296:22 key: eBlnLO value: probably
+VM296:22 key: nqBEUS value: true
+VM296:22 key: Nyh3a3 value: America/Bogota
+VM296:22 key: WRyyqM value: false
+VM296:22 key: SU2ZiE value: true
+VM296:22 key: n6W2t6 value: true
+VM296:22 key: ksNRJ0 value: true
+VM296:22 key: uk98hS value: true
+VM296:22 key: bbcTdT value: true
+VM296:22 key: y723LM value: true
+VM296:22 key: uXFbiI value: true
+VM296:22 key: XEEJwa value: true
+VM296:22 key: EpvDd5 value: true
+VM296:22 key: w9Yj7U value: true
+VM296:22 key: 270s88 value: false
+VM296:22 key: Vdb4Eb value: true
+VM296:22 key: mk3r0w value: false
+VM296:22 key: 5mgjlX value: false
+VM296:22 key: 1wyYuZ value: true
+VM296:22 key: ubuC3n value: es-US
+VM296:22 key: es8Qh5 value: false
+VM296:22 key: ee3HBA value: true
+VM296:22 key: 45iNfT value: 100
+VM296:22 key: EIxi9x value: Google Inc.
+VM296:22 key: 5B7rxT value: NA
+VM296:22 key: WNqvpP value: defined
+VM296:22 key: lRzsab value: true
+VM296:22 key: uVmJJv value: 
+VM296:22 key: wynbtX value: 0.01
+VM296:22 key: aDrsre value: 48000
+VM296:22 key: zv0aol value: 3223aeb6721e0d0917e7928181193ac88dcd62fad5cadfbe7a2b2b473ecf58ee70f018dbdb1a1832e8dc6528387b0745971dbcd82384261e9a4e3f
+VM296:22 key: 4JacvP value: 8ea604db0a16f8366905776cde678dc7042000826b2620367e6599c327121e26_2560_1400_2
+VM296:22 key: nSuzTu value: 3834702028
+VM296:22 key: qJrz5M value: false
+VM296:22 key: ywsyAK value: false
+VM296:22 key: Nj1yOw value: false
+VM296:22 key: aDsn8x value: 
+VM296:22 key: xi5c8A value: 0.758866329191848
+VM296:22 key: VNjHrc value: application/pdf,text/pdf
+VM296:22 key: AaATTO value: 300
+VM296:22 key: yVrVIv value: false
+VM296:22 key: rDIFlC value: true
+VM296:22 key: Y0xqWd value: false
+VM296:22 key: W1CZRc value: 40
+VM296:22 key: Y0pjlQ value: ,loadTimes,csi,app
+VM296:22 key: hhbOkV value: false
+VM296:22 key: T5nz0i value: Win32
+VM296:22 key: jiMD1r value: 2
+VM296:22 key: mBBJgt value: 1400
+VM296:22 key: sUXxtl value: 2560
+VM296:22 key: 5Kb2dw value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36
+VM296:22 key: pTnIDv value: false
+VM296:22 key: F3xuLy value: 0
+VM296:22 key: QUl1Oe value: false
+VM296:22 key: mByI79 value: ["es-US","es-419","es","en"]
+VM296:22 key: 3mklOy value: 4
+VM296:22 key: RXIRPs value: ua
+VM296:22 key: l9PXjH value: TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0MC4wLjAuMCBTYWZhcmkvNTM3LjM2
+VM296:22 key: idiL4p value: false
+VM296:22 key: Tmoj77 value: false
+VM296:22 key: V93oNY value: false
+VM296:22 key: MxfKTs value: false
+VM296:22 key: r9DkAa value: false
+VM296:22 key: pBM7o4 value: false
+VM296:22 key: qkygum value: false
+VM296:22 key: 4zNwsI value: false
+VM296:22 key: 19LxKM value: 5.38,6.85,9.64,0.35,2.13,4.46,7.05,4.89,11.86
+VM296:22 key: NZlvpt value: 17, 5, 0
+VM296:22 key: hg4fgr value: 0.348945, 0.0224153, -0.0153388, 0.00217572, -0.243086, 1.47056, -3.38101, 0.479576, 0.0284502, 1.54058, 2.89853, -0.411139, 0.200574, 10.8611, 20.4346, -1.89853
+VM296:22 key: dYRJbn value: 0px
+VM296:22 key: iTCcY7 value: PDF Viewer,Chrome PDF Viewer,Chromium PDF Viewer,Microsoft Edge PDF Viewer,WebKit built-in PDF
+VM296:22 key: eWbjCR value: false
+VM296:22 key: saSqnI value: 5
+VM296:22 key: HF7qap value: true
+VM296:22 key: HlFFBa value: true
+VM296:22 key: URS0Aj value: false
+VM296:22 key: d5wB8t value: false
+VM296:22 key: ybfU8H value: false
+VM296:22 key: lYcfNR value: undefined
+VM296:22 key: n0bkp4 value: false
+VM296:22 key: kt5r7R value: false
+VM296:22 key: zIJlVK value: 57.10000014305115
+VM296:22 key: iGSwcX value: 199.39999985694885
+VM296:22 key: SMJyTe value: 0
+VM296:22 key: wvK024 value: -317.7000000476837
+VM296:22 key: aVzpRE value: 146.09999990463257
+VM296:22 key: sIcsYQ value: 31.100000143051147
+VM296:22 key: 6EEMSV value: 920.3999998569489
+VM296:22 key: BOeRAy value: 1.5
+VM296:22 key: DWdxb2 value: 394088
+VM296:22 key: sUtU8l value: http/1.1
+VM296:22 key: IgYcAh value: 0
+VM296:22 key: 5aGDdS value: navigation
+VM296:22 key: Xuy8Ml value: 0.20000004768371582
+VM296:22 key: WmZ0Jq value: 26.200000047683716
+VM296:22 key: IU3wkq value: -0.15210356094427152
+VM296:22 key: pkzMNf value: 0
+VM296:22 key: ngzEnc value: 0
+VM296:22 key: 7eUgj1 value: 0
+VM296:22 key: SU2PXA value: 0
+VM296:22 key: MQm4kW value: aptr:fine, ahvr:hover
+VM296:22 key: j0HYLT value: probably
+VM296:22 key: BweHxw value: false
+VM296:22 key: FPrj4N value: probably
+VM296:22 key: 3OFJl3 value: true
+VM296:22 key: EpqVPB value: probably
+VM296:22 key: d9TNve value: false
+VM296:22 key: stSdQP value: maybe
+VM296:22 key: GVc4wX value: false
+VM296:22 key: nfi94Q value: probably
+VM296:22 key: 1v3oSx value: true
+VM296:22 key: GWFv14 value: 
+VM296:22 key: bFB0AI value: false
+VM296:22 key: eevzXj value: probably
+VM296:22 key: s7Mjto value: false
+VM296:22 key: JuAc7b value: maybe
+VM296:22 key: Or6O9T value: false
+VM296:22 key: ceDHT1 value: probably
+VM296:22 key: WBFVG7 value: false
+VM296:22 key: VxiLep value: maybe
+VM296:22 key: ZTwXKq value: false
+VM296:22 key: peKttK value: false
+VM296:22 key: lBOV30 value: 1196
+VM296:22 key: Jjksou value: 1279
+VM296:22 key: D7rhM0 value: 1196
+VM296:22 key: CRGpSy value: 1279
+VM296:22 key: rjK56g value: 2560
+VM296:22 key: 0YzjY2 value: 1400
+VM296:22 key: LAN0pl value: 2560
+VM296:22 key: 34T3wV value: 1440
+VM296:22 key: 2IYQ6y value: 24
+VM296:22 key: dyESdJ value: 1
+VM296:22 key: Fc5LS7 value: landscape-primary
+VM296:22 key: PrZWfa value: Error
+at zg (https://geo.ddc.paypal.com/interstitial/?initialCid=AHrlqAAAAAMAKP-bLnQIPJUAv1-nMw%3D%3D&hash=C992DCAFEE25FA95C6492C61EB3328&cid=FNgKJeve
+VM296:22 key: IhAMwz value: x6NHKwOHtVAWdn0rKEh_EN4XGqVVd8qr8LI28a3dwJbbpkpeQwZk&referer=https%3A%2F%2Fwww.paypal.com%2Fco%2Fwelcome%2Fsignup%2F&s=55904&b=1909394&dm=cd:38:640160
+VM296:22 key: AZoUPf value: 2435772046
+VM296:22 key: M3QROi value: 102aec8b62e2187e3c1f695d15264a1d863511ed0bf6352f2f91b80db8b4e918
+VM296:22 key: K8ypzQ value: 1560867737
+VM296:22 key: 7Fei3E value: true
+VM296:22 key: W1EdbQ value: false
+VM296:22 key: IGrltv value: false
+VM296:22 key: 95512k value: false
+VM296:22 key: QZKaH4 value: amd64,64,false,,Windows,10,8,
+VM296:22 key: tOnuhw value: 2410
+VM296:22 key: 9j3ZHv value: true
+VM296:22 key: Un0SNN value: 1
+VM296:22 key: u9pyP9 value: 0
+VM296:22 key: 28kOWz value: Infinity
+VM296:22 key: g2u6l5 value: Err: Z2V0TGF5b3V0TWFwKCkgbXVzdCBiZSBjYWxsZWQgZnJvbSBhIHRvcC1sZXZlbCBicm93c2luZyBjb250ZXh0IG9yIGFsbG93ZWQgYnkgdGhlIHBlcm1pc3Npb24gcG9saWN5Lg==
+VM296:22 key: R3Le8c value: denied
+VM296:22 key: hseZrI value: 0
+VM296:22 key: KfcnpE value: true

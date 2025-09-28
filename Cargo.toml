@@ -1,0 +1,16 @@
+[package]
+name = "datadome"
+version = "0.1.0"
+edition = "2024"
+build = "build.rs"
+
+[dependencies]
+oxc_allocator = "0.62.0"
+oxc_ast = "0.62.0"
+oxc_ast_visit = "0.62.0"
+oxc_parser = "0.62.0"
+oxc_semantic = "0.62.0"
+oxc_span = "0.62.0"
+base64 = "0.22"
+rusty_v8 = "0.32"
+oxc_codegen = "0.62.0"
